@@ -12,9 +12,8 @@
 
 Cyber Security Engineer who loves coding useless projects
 
-🔭 &nbsp;I'm currently working on **ISS Tracker 🛰️**  
-🌱 &nbsp;I'm currently learning **Sailpoint CI/CD**  
-😄 &nbsp;Pronouns: **she/her**  
+🔭 &nbsp;I'm currently working on **Satellite Tracker 🛰️**  
+🌱 &nbsp;I'm currently learning **Claude Code**  
 ⚡ &nbsp;Fun fact: **I once coded a website that got 100,000 views**
 
 ### 🛠️ Tech Stack
